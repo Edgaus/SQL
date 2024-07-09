@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T17:10:56.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="kz-7sfZLJAkV6-DMWv8G" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T17:12:56.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="nbsCTDa9t7m-ldlsBDLV" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1002" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="D7W6FBou2w7uD_IczJEW-3" value="monito" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="D7W6FBou2w7uD_IczJEW-3" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:14.0pt;line-height:115%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:&lt;br/&gt;major-bidi&quot; lang=&quot;ES-MX&quot;&gt;Desarrollo de aleaciones ternarias Al&lt;sub&gt;x&lt;/sub&gt;In&lt;sub&gt;1-x&lt;/sub&gt;N&lt;br/&gt;crecidas por epitaxia de haces moleculares.&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="264" y="-1140" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D7W6FBou2w7uD_IczJEW-4" value="&lt;div&gt;Estos dispositivos tienen potencial aplicación en al área de esterilización de superficies, agua y aire, terapia UV, monitoreo biológico.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
